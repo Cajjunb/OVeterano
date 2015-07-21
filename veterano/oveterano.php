@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html>
+	<?php require('../../vendor/autoload.php'); ?>
 <head>
 	<title>O veterano</title>
 	<meta charset="utf-8">
